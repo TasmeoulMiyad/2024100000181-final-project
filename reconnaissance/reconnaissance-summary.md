@@ -1,4 +1,4 @@
-# Active Reconnaissance Summary — TryHackMe Lab Analysis
+# Active Reconnaissance Summary
 
 ## 1. Executive Summary
 An active reconnaissance assessment was conducted against the designated target infrastructure using the tools and methodologies structured within the TryHackMe Active Reconnaissance framework. Unlike passive reconnaissance, which relies on public records, this active engagement made direct, tactical connections with the host systems. The assessment successfully verified host availability, mapped network routing boundaries, and profiled exposed application architectures to define the target's initial attack surface.
