@@ -1,7 +1,6 @@
 
 # External Penetration Testing Assessment Simulation
-**Course:** Applied Penetration Testing Engineer: Hands-on Experience (CADS010)  
-**Client:** PosBuzz Retail Solutions  
+**Course:** Applied Penetration Testing Engineer: Hands-on Experience  
 
 ---
 
