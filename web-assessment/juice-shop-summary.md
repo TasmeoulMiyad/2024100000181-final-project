@@ -1,4 +1,4 @@
-# OWASP Juice Shop Web Assessment Summary — TryHackMe Lab Analysis
+# OWASP Juice Shop Web Assessment Summary
 
 ## 1. Executive Summary
 A structured web application security assessment was conducted against the OWASP Juice Shop platform following the guidelines laid out in the TryHackMe curriculum. The primary objective of this assessment was to identify, analyze, and exploit common web vulnerabilities categorized within the OWASP Top 10 framework (including Injection, Broken Authentication, Sensitive Data Exposure, Broken Access Control, and Cross-Site Scripting). The testing evaluated the application’s resilience to external web-layer attacks and derived defensive remediations.
