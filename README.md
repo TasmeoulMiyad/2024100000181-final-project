@@ -13,7 +13,7 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the deliverables for the final project external security assessment simulation conducted for **PosBuzz Retail Solutions**. The assessment covers active network reconnaissance, web application vulnerability evaluation, and target system exploitation. All testing activities were strictly confined to authorized TryHackMe environments.
+This repository contains the deliverables for the final project external security assessment simulation. The assessment covers active network reconnaissance, web application vulnerability evaluation, and target system exploitation. All testing activities were strictly confined to authorized TryHackMe environments.
 
 ---
 
